@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Addin Type="Standard">
+  <ClassId>{56e4ae4d-cadf-46ea-ad9d-7f21f9a7784d}</ClassId>
+  <ClientId>{56e4ae4d-cadf-46ea-ad9d-7f21f9a7784d}</ClientId>
+  <DisplayName>InventorAddinServer</DisplayName>
+  <Description>InventorAddinServer</Description>
+  <Assembly>c:/users/user/documents/visual studio 2010/Projects/InventorAddIn/InventorAddIn/bin/Debug/InventorAddIn.dll</Assembly>
+  <LoadBehavior>0</LoadBehavior>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>19..</SupportedSoftwareVersionGreaterThan>
+  <SupportedSoftwareVersionLessThan>21..</SupportedSoftwareVersionLessThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
